@@ -57,7 +57,7 @@ This repository demonstrates the implementation of an on-premises-style Active D
     - `ipconfig /all`
   - Confirm that the output for the DNS settings shows `DC-1`'s Private IP address.
 
-<img width="1438" alt="Screenshot 2025-01-23 at 3 12 51 PM" src="https://github.com/user-attachments/assets/1137ed60-e6ba-4ea2-84b8-e19e9e0271d8" />
+<img width="1438" alt="Screenshot 2025-01-23 at 3 12 51 PM" src="https://media.discordapp.net/attachments/981036239497080832/1407158528824705175/image.png?ex=68a51601&is=68a3c481&hm=b180508507d04a6b6ea73590b36fa8f2cf69a0b1b250004c129b0b63fc250005&=&format=webp&quality=lossless&width=2118&height=476" />
 
 <h2>Purpose</h2>
 The purpose of this repository is to document and showcase the preparation of an Active Directory infrastructure in Azure. This serves as a reference for implementing a similar setup for learning, testing, or production environments.
